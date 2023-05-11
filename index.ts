@@ -1,3 +1,2 @@
-import VectorDatabase from './src/WordsVectorDB';
-
+import VectorDatabase from './src/VectorDB';
 export { VectorDatabase };

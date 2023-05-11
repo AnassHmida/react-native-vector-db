@@ -1,4 +1,3 @@
-
 {
   "name": "react-native-vector-db",
   "version": "1.0.0",
@@ -6,6 +5,14 @@
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@tensorflow-models/mobilenet": "^2.1.0",
+    "@tensorflow/tfjs": "^4.5.0",
+    "@tensorflow/tfjs-react-native": "^0.8.0",
+    "react": "18.2.0",
+    "react-native": "0.71.7",
+    "react-native-mmkv-storage": "^0.9.1"
   },
   "keywords": [
     "react-native"
@@ -15,6 +22,5 @@
   "peerDependencies": {
     "react-native": "^0.41.2",
     "react-native-windows": "0.41.0-rc.1"
-
   }
 }
