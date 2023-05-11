@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@tensorflow/tfjs": "3.9.0",
+    "@tensorflow/tfjs": "^4.5.0",
     "@tensorflow/tfjs-react-native": "0.7.0",
     "@tensorflow-models/mobilenet": "2.1.0",
     "react": "18.2.0",
