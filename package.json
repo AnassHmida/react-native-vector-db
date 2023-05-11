@@ -7,12 +7,18 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@tensorflow-models/mobilenet": "^2.1.0",
-    "@tensorflow/tfjs": "^4.5.0",
-    "@tensorflow/tfjs-react-native": "^0.8.0",
+    "@tensorflow/tfjs": "3.9.0",
+    "@tensorflow/tfjs-react-native": "0.7.0",
+    "@tensorflow-models/mobilenet": "2.1.0",
     "react": "18.2.0",
     "react-native": "0.71.7",
-    "react-native-mmkv-storage": "^0.9.1"
+    "react-native-mmkv-storage": "^0.9.1",
+    "@react-native-async-storage/async-storage": "^1.18.1",
+    "expo-asset": "^8.9.1",
+    "expo-camera": "^13.2.1",
+    "expo-gl": "^12.4.0",
+    "react-native-fs": "^2.20.0",
+    "react-native-unimodules": "^0.14.10"
   },
   "keywords": [
     "react-native"
